@@ -1,7 +1,7 @@
 {
     "author" : ["Phaxius"],
     "install_msg" : "Thanks for Installing phax-cogs Red-DiscordBot Cogs Repository!",
-    "name" : "phax-cogs",
+    "name" : "PhaxCogs",
     "short" : "Cogs by Phaxius",
-    "description" : "phax-cogs - Red-DiscordBot Cogs Repository by Phaxius - (https://github.com/Phaxius/phax-cogs/)"
+    "description" : "PhaxCogs - Red-DiscordBot Cogs Repository by Phaxius - (https://github.com/Phaxius/PhaxCogs/)"
 }
